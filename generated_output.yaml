@@ -1,0 +1,10 @@
+name: mock
+encoding:
+  match: 0000001----------000-----0001011
+  variables:
+    - name: xs2
+      location: 24-20
+    - name: xs1
+      location: 19-15
+    - name: xd
+      location: 11-7
